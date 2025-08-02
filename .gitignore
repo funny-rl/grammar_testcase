@@ -17,6 +17,7 @@ code/data/data_preprocess/filter4/*
 code/data/data_preprocess/filter5/*
 code/data/data_preprocess/original_data/*
 code/data/data_preprocess/utils/*
+code/data/test/*
 code/models/*
 code/outputs/*
 code/wandb/*
